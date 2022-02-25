@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of some of the dying-sayings of Susannah Yeats, late wife of Samuel Yeats, of the parish of Minching-Hammpton in Glocester-shire with a sermon preached at her funeral by Thomas Worden ...</title>
+            <author>Worden, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67065</idno>
+            <idno type="STC">Wing W3577</idno>
+            <idno type="STC">ESTC R31846</idno>
+            <idno type="EEBO-CITATION">12269388</idno>
+            <idno type="OCLC">ocm 12269388</idno>
+            <idno type="VID">58181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58181)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1516:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of some of the dying-sayings of Susannah Yeats, late wife of Samuel Yeats, of the parish of Minching-Hammpton in Glocester-shire with a sermon preached at her funeral by Thomas Worden ...</title>
+                  <author>Worden, Thomas.</author>
+                  <author>Yeats, Susannah, d. 1688.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Marshall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Last words.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58181:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT Of ſome of the <hi>Dying-Sayings</hi> OF SUSANNAH YEATS, Late Wife of <hi>SAM<g ref="char:V">Ʋ</g>EL YEATS</hi> of the Pariſh of <hi>Minching-Hampton</hi> in <hi>Gloce<g ref="char:EOLhyphen"/>ſter-ſhire.</hi>
+            </p>
+            <p>WITH A SERMON Preached at her Funeral.</p>
+            <p>By <hi>THOMAS WORDEN</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Marſhall</hi> at the <hi>Bible</hi> in <hi>Newgate-ſtreet,</hi> 1688.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58181:2"/>
+            <pb facs="tcp:58181:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>IT is ſtoried of <hi>Latimer</hi> the Biſhop, that on a time, when he was to Preach be<g ref="char:EOLhyphen"/>fore King <hi>Edward</hi> the 6th, his Theme was, <hi>Take heed and beware of Co<g ref="char:EOLhyphen"/>vetouſneſs;</hi> and ſo kept on the Repe<g ref="char:EOLhyphen"/>tition of it five or ſix times together, as if he intended that his Sermon ſhould conſiſt of no more words than his bare Theme, (viz.) <hi>Take heed and beware of Covetouſneſs.</hi>
+            </p>
+            <p>B<g ref="char:V">Ʋ</g>T if the Biſhop were now alive, he would ſee cauſe to alter his Subject, in turning of it from <hi>Covetouſneſs</hi> to <hi>Death.</hi>
+            </p>
+            <p>FOR as he made uſe of after Arguments to dehort his Auditors from that Sin; ſo now would he ſee need to make as often a Repeti<g ref="char:EOLhyphen"/>tion of the word <hi>Death</hi> (as the Prophet did of the word <hi>Earth. O Earth, Earth, hear the
+<pb facs="tcp:58181:3"/> word of the Lord)</hi> and all would be too lit<g ref="char:EOLhyphen"/>tle to affright this Age from more groſs Sins.</p>
+            <p>IT is our unhappy Lot to live in an Age, wherein our moſt ſharp Brains are more encli<g ref="char:EOLhyphen"/>ned to exerciſe the Vanity of Wit, than to la<g ref="char:EOLhyphen"/>bour after true Wiſdom, which would render the enſuing Subject the leſs pleaſant to them. For how is it poſſible that Men ſhould read a Subject of Death with pleaſure, who ſo much abound in Sin (while they live) with ſo much pleaſure.</p>
+            <p>IT was the ſaying (once) of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> That of all the Books which ſhe had read, ſhe prized moſtly theſe two <hi>(viz.) Seni<g ref="char:EOLhyphen"/>ca,</hi> and the <hi>Bible;</hi> and it would be no ſmall mercy to the moſt of our Age, if they could ſay, That of all things in the World they moſtly love theſe two, <hi>(viz.)</hi> to live to Chriſt, and to dye to Sin; becauſe to ſuch a man, Death will not appear as a Lyon, but as a Lamb. For thoſe whoſe bleeding Wounds by Sin are not healed by the Blood of Chriſt, their Death will make the greateſt Wound at laſt.</p>
+            <p>IF the Preaching of Death to mens Ears, would be the Death of Sin in their Hearts, the enſuing Subject then might be as <hi>Solomon</hi> ſpeaks of ſeaſonable Words, <hi>(viz.) like Ap<g ref="char:EOLhyphen"/>pels of Gold in Pictures of Silver.</hi> But inſtead of any hope this way, may we not ſit <hi>down
+<pb facs="tcp:58181:3"/> with the Prophets complaint, and cry out as he did,</hi> Iſa. 28. 10, 12. <hi>Tho line upon line be brought to this People; and pre<g ref="char:EOLhyphen"/>cept upon precept; here a little, and there a little, yet they will not hear.</hi> As to the following Subject treated upon, it was preached at the Funeral of one of my Congregation. But if any ſhall expect quaintneſs of Words, or elegancy of Phraſe, he will find but little which would ſuit that humour.</p>
+            <p>THEREFORE thoſe that uſually read Books to pleaſe their Fancies, more than to encreaſe their Faith; and love to have their Ears tickled with fine Words, rather than their Hearts toucht with real Truths, will little applaud the Diſcourſe.</p>
+            <p>IF thou readeſt rather to acquaint thy ſelf with flouriſhing Sentences, than to affect thy Heart with real Subſtances; thou muſt leave the School of Christ, and betake thy ſelf to a Heatheniſh Academy.</p>
+            <p>THE greatest care taken about the fol<g ref="char:EOLhyphen"/>lowing Diſcourſe, hath been to trim it up in a <hi>Jacob</hi>-like Dreſs, plain and pious. Its Gar<g ref="char:EOLhyphen"/>ment is like to the <hi>Iſraelites</hi> Robes for their Humiliation, not Silk, but Sackcloth. There<g ref="char:EOLhyphen"/>fore what Beauty lieth in it, reſembles the stile given of the Church, <hi>Pſal. 45. 13. It's only glorious within.</hi> Its beauty appears not
+<pb facs="tcp:58181:4"/> ſo much in the Letter without, as it doth in the Spirit within.</p>
+            <p>AND if thou contemn it only for want of an external Beauty, that will but beſpeak to thy face thy want of Spirituality.</p>
+            <p>I DO declare I never had any further in<g ref="char:EOLhyphen"/>tent (in the Study of the enſuing Diſcourſe) than to content my ſelf with the bare Preach<g ref="char:EOLhyphen"/>ing of it. For to ſay all, I never deem'd it worthy of ſo publick a view as it's now arrived unto, only strong Importunity hath drag'd it out of my Hand; and that it's now publiſhed, it's rather to humour my Friend, than to pleaſe my ſelf any further than it may be ſervicea<g ref="char:EOLhyphen"/>ble to ſome poor Soul. But that God that can make dry Bones to live, if he ſhall make this dry Bone of any quickning-uſe to thee, give God the Praiſe, and me thy Prayer.</p>
+            <lg>
+               <l>That God would make me in his hand,</l>
+               <l>A means that ſome may underſtand</l>
+               <l>What ſlavery their Souls are in,</l>
+               <l>Who wilfully do live in Sin;</l>
+               <l>That ſo they may be brought to ſee</l>
+               <l>The captiv'd State and Miſery,</l>
+               <l>That Satan have them in, beyond all doubt,</l>
+               <l>Unleſs the Lord of Life do work them out;</l>
+               <l>And then, when they to Chriſt by Faith do run,</l>
+               <l>As Perſons that are quite undone,</l>
+               <pb facs="tcp:58181:4"/>
+               <l>And ſo by Faith on him do clinch,</l>
+               <l>Their fiery heat of guilt to quench;</l>
+               <l>Which will make Sin the greateſt pain,</l>
+               <l>And Godlineſs the greateſt gain.</l>
+               <l>And by believing reſt upon</l>
+               <l>The Lord of Life; when this is done</l>
+               <l>Do live to him in Righteouſneſs;</l>
+               <l>Its wages being Bleſſedneſs,</l>
+               <l>Which alters Death from being a foe,</l>
+               <l>Which will alſo free them from woe,</l>
+               <l>And land them in their Haven of Reſt,</l>
+               <l>Where they ſhall ever be, and bleſt;</l>
+               <l>The good of which will make my Crown</l>
+               <l>So heavy, that it will weigh down</l>
+               <l>All the diſcouragements which attend</l>
+               <l>My painful labours to the end.</l>
+               <l>Yet do but me thy Prayers give,</l>
+               <l>And that will always me relieve,</l>
+               <l>Until my painful work be done,</l>
+               <l>And I at reſt to Joy am come.</l>
+            </lg>
+            <closer>
+               <signed>Thine and the Churches Servant, THOMAS WORDEN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58181:5"/>
+            <pb facs="tcp:58181:5"/>
+            <head>The Dying-Sayings of <hi>Suſannah Yeats,</hi> the Wife of <hi>Samuel Yeats,</hi> an Inhabitant in the Pariſh of <hi>Minching Hampton,</hi> &amp;c.</head>
+            <p>ON the <hi>Monday</hi> night (after ſhe fell ſick) was a night of great temp<g ref="char:EOLhyphen"/>tation to her, who lay under the violent aſſaulting hand of Satan for four hours together; the next morning ſhe related her Condition to a Friend which came to ſee her. When after her Friend had asked her how it was with her, She replied in theſe words, <hi>I remember what my Paſtor ſaid once, That when Satan is buſy with his Tempations to a Perſon in a Sick-bed, it is a ſign of Death. But</hi> (ſaid ſhe) <hi>he hath been buſy with me this Night.</hi> After ſhe had thus ſaid, ſhe related what her temptations had been the Night before; Firſt ſhe had a ſight of Satans appearance to her, claiming a propriety in her, and that all her endeavour would be but loſt la<g ref="char:EOLhyphen"/>bour at laſt. Unto whom ſhe replied, <hi>O
+<pb n="2" facs="tcp:58181:6"/> thou Coward, that knoweſt I am a weak Wo<g ref="char:EOLhyphen"/>man, weak in Body, and weak in Faith; if thou haſt any thing to lay to my Charge, get thee gone, go to the Lyon of the Tribe of</hi> Ju<g ref="char:EOLhyphen"/>dah, <hi>he will plead my Cauſe for me; if there be not Mercy enough in God, if there be not Merit enough in the Blood of Jeſus Chriſt, if there be not worth enough in his Righteouſ<g ref="char:EOLhyphen"/>neſs, nor Grace enough in his Sanctification, to preſent me Spotleſs in the Fathers ſight, then will I periſh at thy Feet; there will I hang, there will I cling. And when</hi> (ſaid ſhe) <hi>I had thus anſwered him, he ſlunk away like a Coward.</hi> Suddenly after this, ſhe thought there came into her Preſence another Com<g ref="char:EOLhyphen"/>pany of the ſame Gang, leaping and skip<g ref="char:EOLhyphen"/>ping too and fro before her, dreſt up in an antick Dreſs.</p>
+            <p>NOW you muſt note, That the Diſtemper of her Body occaſioned her Face to ſwell very much, only one of her Eyes ſhe could open fully, but the other Eye almoſt cloſed up; and ſhe obſerved that one of theſe little Devils came near to her, with its Face ſwell'd like hers, winking with one Eye, as it was with her, and as ſhe conceived in a way of mockery of her; but ſhe reſolutely ſlighted them, telling them that their Head was vanquiſhed, and for their parts, ſhe
+<pb n="3" facs="tcp:58181:6"/> would not trouble her ſelf about them, and in contempt of them, ſhe turned her ſelf about towards the other ſide of the Bed, with her Face toward the Wall.</p>
+            <p>WHEN ſhe had thus related her Appa<g ref="char:EOLhyphen"/>rition, and her Temptation, ſhe next ſaid to her Friend, (to this purpoſe) <hi>I then</hi> (meaning when the little Devil appeared to her) <hi>thought with my ſelf, if I could ſee the Angels of God, what pretty things are they?</hi> Upon which ſhe had the ſight of ma<g ref="char:EOLhyphen"/>ny of them to her great Joy and Refreſh<g ref="char:EOLhyphen"/>ment, and with it ſuch a ſound of ſweet ra<g ref="char:EOLhyphen"/>viſhing Muſick, that ſhe never heard the like in all her life-time; her Paſtor being with her, ſhe looked on him, and ſaid, (having related this Paſſage to him alſo) <hi>Oh Sir, methinks I have the ſound of this ſweet Muſick in my Ears now.</hi> Upon which one that ſtood by, anſwered her, But was not this in your Sleep? Do you not think it was a Dream? To whom ſhe replied again, <hi>No, no, I was as much awake as I am now; for I am ſure, that I told the Clock four times with my Head to the Pillow, as now I lie.</hi>
+            </p>
+            <p>AFTER theſe things were over, her Comfort began to flow in like a River upon her, in ſuch a meaſure, as ſerved to refreſh others, as well as her ſelf.</p>
+            <pb n="4" facs="tcp:58181:7"/>
+            <p>ON a time, as her helpers were turning her in the Bed, ſhe uttered this Paſſage to them: <hi>My Bed is eaſy; God maketh my Bed in my Sickneſs; the everlaſting Arms are underneath me; lay me where you will, it is eaſy.</hi>
+            </p>
+            <p>AT another time, ſhe uttered theſe words, (<hi>viz.) His Rod and his Staff doth comfort me.</hi>
+            </p>
+            <p>AT another time, to a Perſon that ſtood by her, ſhe ſpake thus, (<hi>viz.) You must come to Jeſus Chriſt as I have done, all na<g ref="char:EOLhyphen"/>ked, a vile Sinner, empty and bare, only as a poor Sinner.</hi>
+            </p>
+            <p>HERE the Reader may Note, That on the Monday night, a Week paſt, which was about the time that ſhe had that ſore Con<g ref="char:EOLhyphen"/>teſt with the Devil, ſhe ſaw a Veſſel in or<g ref="char:EOLhyphen"/>der to a Sacrament, preſented to her; and ſhe thought ſhe ſaw many taking thereof, which made her glad to ſee it.</p>
+            <p>AND ſhe ſaid, That ſhe had a deſire to partake of it her ſelf; but ſhe thought that ſhe heard a Voice, ſaying, That this is not for lazy Sinners, and that ſhe was one of them. So that on the <hi>Wedneſday</hi> night following, ſhe had her deſire in full, with reſpect to her partaking of this Ordinance.</p>
+            <pb n="5" facs="tcp:58181:7"/>
+            <p>HER Couſin came to ſee her, and uttering theſe words to her, (<hi>viz.</hi>) God hath done great things for me (meaning, in deliver<g ref="char:EOLhyphen"/>ing of her from the violence of her late di<g ref="char:EOLhyphen"/>ſtemper) unto which this dying Woman replied, <hi>O bleſſed, O bleſſed be God; I have prayed for your Deliverance, and that your pains might not be ſtrong.</hi>
+            </p>
+            <p>IT was much wondered at by ſome, but eſpecially by a Friend of hers which was often with her, that ſometimes ſhe would not take the things which were ſent her from the Doctor, when they were offered to her; and when it was deſired that ſhe would give the Reaſon why ſhe refuſed the things offered her, her anſwer would be, it muſt not be taken as yet, if I ſhould, it will do me no good. Sometime after ſhe would call for it, ſaying, <hi>Now it is God's time that I ſhould take it; Now it will do me good;</hi> which was found true to the experience of thoſe which were about her.</p>
+            <p>IT was obſerved that all along in the latter part of her ſickneſs, that ſhe was very care<g ref="char:EOLhyphen"/>ful not to take either Food or Phyſick, but with a deſire that it might agree with Gods allowance; looking upon her inclination to it, or diſ-freedom to take it, to be given her in from the Lord.</p>
+            <pb n="6" facs="tcp:58181:8"/>
+            <p>ON a time, having a Friend of hers with her, at which time ſhe calling for ſome<g ref="char:EOLhyphen"/>thing to take into her Body; and percei<g ref="char:EOLhyphen"/>ving ſome unwillingneſs in her attendants to give it her at that time; ſhe would ſay, <hi>Good Couſin,</hi> (which was the aforeſaid Friend, which was with her) <hi>this must be done, I have prayed to God twice for it, and it is given into me, that this must be done, and it will do me good.</hi>
+            </p>
+            <p>AND there are which will affirm it, who have ſeveral times obſerved it, that when ſhe hath ſaid ſo, the means which ſhe hath taken, would certainly have a moſt beneficial Effect upon her.</p>
+            <p>ONE of the Congregation which came to her, and ſitting down by her, this dying Woman ſpeedily uttered theſe Words to her, <hi>Mistriſs,</hi> (ſays ſhe) <hi>what a Mercy it was, that God did give a few ſome ſtrength to ſuffer</hi> (meaning in the late) <hi>Perſecution?</hi> Another Friend who watcht with her one Night, asking of her how ſhe did; her re<g ref="char:EOLhyphen"/>ply at that time, was only thus, (<hi>viz.) Peace, peace, I may not tell you yet.</hi>
+            </p>
+            <p>BUT on the morning following, her Husband coming to her, ſhe ſpake thus to him, <hi>Oh Husband, I have ſlept in the Arms of Chriſt this Night;</hi> upon which her Huſ<g ref="char:EOLhyphen"/>band
+<pb n="7" facs="tcp:58181:8"/> drawing back towards the Fire-ſide, ſpake whiſperingly to the Watchers, asking them whether his Wife had ſpoken any thing unadviſedly that Night; his Wife hearing his Words, tho ſpoken but whiſper<g ref="char:EOLhyphen"/>ingly, replys, <hi>Oh you of little Faith, do you think that I have not my Reaſon, or that I am not ſenſible?</hi>
+            </p>
+            <p>AT another time, fixing her Eye upon one that ſtood by her, <hi>Oh,</hi> ſays ſhe to her, <hi>you are Proud and Stubborn, and do mind only Toyes; and I fear that you do not go to Ordi<g ref="char:EOLhyphen"/>nances to-meet with Jeſus Christ; and I wiſh you to go more humbly to God.</hi>
+            </p>
+            <p>ONE morning ſhe deſired her Husband to pray with her; and deſired him to go to God for her, and to beg of God, that if there were any Sin which ſhe had commit<g ref="char:EOLhyphen"/>ted, which yet was not brought to her mind, it might be made known to her, that ſhe might Repent of it, and for thoſe Sins ſhe did not know, that God would par<g ref="char:EOLhyphen"/>don.</p>
+            <p>AT another time, in the hearing of a Chriſtian Friend, ſhe breaks out in theſe Words, <hi>Oh, this is the best Affliction that ever I had in all my Life;</hi> Oh, <hi>my beloved is mine, and I am his.</hi>
+            </p>
+            <pb n="8" facs="tcp:58181:9"/>
+            <p>UPON another time, ſhe ſpake to two Women which came to Viſit her; Oh, ſays ſhe, <hi>You must go to Meetings, and wait at the Posts of Wiſdoms gates.</hi>
+            </p>
+            <p>A Kinſwoman which came to ſee her, ſitting down by her, unto whom ſhe ſaid this, <hi>Oh Couſin, it is ſweet, ſweet, all is made ſweet to me by Jeſus Christ; I tell you the truth, and I ſpeak no lye.</hi> At another time, tells this Kinſwoman of hers, that ſhe had been at Prayer; and <hi>Oh Couſin,</hi> (ſays ſhe) <hi>Jeſus Christ hath offered up ſweet, oh ſweet Incenſe to God the Father for me; oh, it is perfumed, it is ſweet.</hi>
+            </p>
+            <p>THE day before ſhe died, came in two Perſons to ſee her, to whom ſhe gave this Admonition; <hi>Friends, I deſire you to go to God more humbly than ever you have done, and deſire of him, that you might know whe<g ref="char:EOLhyphen"/>ther that Worſhip you wait upon, be according to Christs Inſtitution.</hi>
+            </p>
+            <p>ONE time, amongſt the reſt, of her Huſ<g ref="char:EOLhyphen"/>band's coming to ſee her, ſhe exhorted him to have a ſpecial care not to truſt to his own Righteouſneſs; alſo ſhe piouſly exhort<g ref="char:EOLhyphen"/>ed her two young Couſins (which lived in the Houſe with her) to look to it, that they did ſerve the Lord.</p>
+            <pb n="9" facs="tcp:58181:9"/>
+            <p>AT another time, a Relation of hers, which came to ſee her, this dying Woman fixing her Eyes on her, ſaid, <hi>Oh Couſin, I have now ſomething to ſay to you; you are a hot Spark for the World, and cold in Duty.</hi> The other replied again, Ay Couſin, that is too true; but ſeeing I am ſo dead in Du<g ref="char:EOLhyphen"/>ty, I hope you will pray for me, that I may be quickned; to whom ſhe replied again, <hi>Yet, Couſin, I do believe, that you do receive the Truth in the love of it;</hi> the other replies a<g ref="char:EOLhyphen"/>gain, But I fear I do not receive the Truth in Love; this dying Woman replies again, <hi>Yes, Couſin, and it will be all well.</hi>
+            </p>
+            <p>SHE asked of her Couſin, where Mrs. <hi>Smith</hi> was; her Couſin replied, That ſhe was gone to <hi>Nailſworth,</hi> and ſhe feared in ſome Diſcontent; to which ſhe anſwered, <hi>Oh, think not ſo, for ſhe is a good Woman, ſhe was a Ministers Wife; therefore you must paſs all by, and not be offended at her, nor count any thing a trouble which you do for her.</hi>
+            </p>
+            <p>THERE was a Chriſtian Friend touching whom ſhe was Conſcious to her ſelf, that ſhe had not carried matters towards her (in the time of her Health) ſo reſpectful<g ref="char:EOLhyphen"/>ly as ſhe ought to have done; therefore deſired that in all haſt ſhe might be ſent for,
+<pb n="10" facs="tcp:58181:10"/> which accordingly was done; and when the Party came to her, and asked how it was with her; She anſwered her again, <hi>You muſt not come to me with a how do you do; but you muſt ſay to me, Dear Siſter, in the Bonds of the Goſpel, how do you do? and you muſt kiſs me:</hi> Then putting forth her hand out of the Bed, and taking her Friend by the hand ſhe pluckt her to her ſelf, and ſaluted her Friend again and again, concluding with theſe Words, <hi>Oh, there muſt not be that ſtrangeneſs between us.</hi> After this, She de<g ref="char:EOLhyphen"/>ſired that her Paſtor might be ſent for; and when he was come, and preſented himſelf to her, ſhe lookt earneſtly upon him, and gave him this Admonition, <hi>Oh, Sir, God make you humble, you are our Leader, and ſuch ſhould labour to be Examples to the reſt. God will teach the humble, and dwell with the humble.</hi>
+            </p>
+            <p>AFTER the uttering of this Words, her Paſtor asked her this Queſtion, Have you any doubt upon your ſpirit, touching the way of Worſhip and Order of the Goſpel, which I have practiſed amongſt you (or words to the ſame effect)? unto which ſhe replied, <hi>No Sir, I muſt tell you, that you have dealt very faithfully with our Souls, and God will own you in your Work, and you muſt
+<pb n="11" facs="tcp:58181:10"/> not abate any thing: And I do believe that God will make this Work a very glorious Work in the Eyes of the Country round about.</hi>
+            </p>
+            <p>AT another time, her Paſtor came to her, and asked how it was with her? To whom ſhe replied, <hi>What would you have me to ſay? The Veſſel can be but full, and I am as full as a poor Creature can hold,</hi> (mean<g ref="char:EOLhyphen"/>ing) <hi>with Joy and Comfort from the Lord.</hi>
+            </p>
+            <p>THE <hi>Thurſday</hi> before her departure, her Paſtor turning into ſee her, (as he was go<g ref="char:EOLhyphen"/>ing to Preach his Lecture-Sermon at <hi>Strowd</hi>) and asking how it was with her, ſhe repli<g ref="char:EOLhyphen"/>ed, <hi>That at the preſent ſhe was enclinable to Slumber; but bid him farewell, and deſired the Lord to bleſs his Labour where he was going.</hi>
+            </p>
+            <p>IT was obſerved by ſeveral, how won<g ref="char:EOLhyphen"/>derfully her Spirit was filled with the Senſe of Chriſt's Church and Kingdom in this World; She would ſay, <hi>That ſhe was ſatis<g ref="char:EOLhyphen"/>fied, that the time was haſtning, that</hi> Sion <hi>ſhould become the Praiſe of the whole Earth.</hi> She did more than once ſay, <hi>That the Kingdom of Darkneſs was coming down, and the Work would be most amazing Work, and wo to them that ſhould be found in it. Oh,</hi> (ſays ſhe) <hi>it will be a fearful day, the Ears of wen will tingle to hear what will be the Portion of thoſe that ſhall remain in that Kingdom then. But</hi> (ſays
+<pb n="12" facs="tcp:58181:11"/> ſhe) <hi>God will bring his People out of it.</hi> She named ſome particular Perſons which ſhe did hope God would not ſuffer long to abide under the Shadows of it. With which ſhe repeated theſe Verſes, which ſhe had read about it, ſo exactly, that the perfecteſt Memory could not be more exact.</p>
+            <lg>
+               <l>Leave off your Vanity,</l>
+               <l>my People, at my call,</l>
+               <l>Leſt for her ſake, you ſhould partake</l>
+               <l>her Sins and Plagues withal;</l>
+               <l>Becauſe her Sins have reach'd</l>
+               <l>unto the Heavens high,</l>
+               <l>Therefore God finds and calls to mind</l>
+               <l>all her Iniquity.</l>
+               <l>Reward her to the full,</l>
+               <l>as ſhe rewarded you;</l>
+               <l>And fill her Cup, twice double up,</l>
+               <l>as She was wont to do.</l>
+               <l>Look how much She hath been</l>
+               <l>a proud luxurious Liver;</l>
+               <l>So much inflict her Torment ſtrict,</l>
+               <l>and ſo much Sorrow give her.</l>
+               <l>For thus within my Heart,</l>
+               <l>I ſit a Queen ſaith She,</l>
+               <l>No deſolate poor Widows ſtate,</l>
+               <l>nor Sorrow ſhall I ſee;</l>
+               <pb n="13" facs="tcp:58181:11"/>
+               <l>And therefore ſhall her Plagues</l>
+               <l>come on her in one Day;</l>
+               <l>Famine and Death, and mournful Breath,</l>
+               <l>to make her Pine away;</l>
+               <l>And She ſhall utterly</l>
+               <l>be burnt with Fire at length:</l>
+               <l>For God the Lord that doth Reward,</l>
+               <l>and judg her, hath ſuch ſtrength.</l>
+            </lg>
+            <p>WHEN ſhe had ended her Poem, her Pa<g ref="char:EOLhyphen"/>ſtor being by, (and wondring within him<g ref="char:EOLhyphen"/>ſelf at her ſudden and ready caſting forth of the Verſes) he asked her how ſhe came by them? Unto which ſhe anſwered (caſt<g ref="char:EOLhyphen"/>ing her Eye about towards the Window) <hi>Look Sir, there did once lye a Book, out of which I learned them.</hi>
+            </p>
+            <p>THIS is as juſt an Account, as could be taken from the Lips of ſeveral Perſons; ſome hearing ſome of the Paſſages, and others hearing of ſome other.</p>
+            <p>INDEED, as ſhe drew nigh her end, there would now and then appear ſome ſhort fla<g ref="char:EOLhyphen"/>ſhes of Giddineſs through want of Sleep but they did not laſt long at a time.</p>
+            <p>BUT take her generally, during the greateſt part of her Sickneſs, her Memory was as good, and her Reaſon as clear, a have ordinarily been found in any dying
+<pb n="14" facs="tcp:58181:12"/> Perſon that hath departed this Life from theſe parts, for years together.</p>
+            <p>THERE hath been a Report caſt abroad, That ſhe ſhould ſay, in the time of her Sickneſs, That none ſhould go to Heaven, but ſuch as was of her Judgment and Per<g ref="char:EOLhyphen"/>ſwaſion in the matters of Religion; but of all, or amongſt all the Paſſages which ſhe uttered in her dying Condition, none that were moſt converſent with her, can in the leaſt remember that ſhe uttered ſuch a Paſ<g ref="char:EOLhyphen"/>ſage.</p>
+            <p>I WAS deſired to Conclude her Sayings with this Verſe, which a Friend of hers de<g ref="char:EOLhyphen"/>livered to me.</p>
+            <lg>
+               <l>Now as to She, or any other that ſhall be ready at his call,</l>
+               <l>Shall ever live, and reſt with Chriſt, and that is beſt of all.</l>
+            </lg>
+         </div>
+         <div type="sermon">
+            <pb n="15" facs="tcp:58181:12"/>
+            <head>The Funeral Sermon Preached at the Interment of the Body of <hi>Suſannah Yeats</hi> of the Pariſh of <hi>Minching-Hampton</hi> in <hi>Gloceſter-ſhire.</hi>
+            </head>
+            <p>THE Text was from the Goſpel of St. <hi>John,</hi> Chapter the Eleventh, part of the Eleventh <hi>Verſe, Our friend Lazarus ſleepeth.</hi> The oc<g ref="char:EOLhyphen"/>caſion of theſe words, aroſe from the Di<g ref="char:EOLhyphen"/>vine Intelligence which the Godhead of Chriſt gave to his Manhood, of the death of <hi>Lazarus,</hi> Brother to <hi>Mary Magdellen,</hi> who deceaſed in the Town of <hi>Bethany,</hi> verſe the firſt.</p>
+            <p>WHICH Intelligence our Saviour commu<g ref="char:EOLhyphen"/>nicated to his Diſciples in the words of the Text, but in a dark and ambiguous manner, <hi>Our friend Lazarus ſleepeth.</hi> Which doubt<g ref="char:EOLhyphen"/>ful expreſſion occaſioned from his Diſciples this reply, <hi>Verſe 12. Then ſaid his Diſciples, Lord, if he ſleep, he ſhall do well.</hi> For ſo in<g ref="char:EOLhyphen"/>deed natural ſleep is a great mercy to a la<g ref="char:EOLhyphen"/>bouring or travelling Man, or to one under
+<pb n="16" facs="tcp:58181:13"/> the viſiting hand of God, in Feveriſh or Conſumptive diſtempers; now it's moſt probable that in this ſenſe the Diſciples un<g ref="char:EOLhyphen"/>derſtood the words of their Maſter, as <hi>verſe</hi> 13. ſheweth. <hi>Howbeit Jeſus ſpake of his death, but they thought that he had ſpoken of taking reſt in ſleep.</hi>
+            </p>
+            <p>BUT our Saviour not being willing to leave them in the dark, plainly tells them, that <hi>Lazarus</hi> was dead, <hi>Verſe 14. Then ſaid Jeſus unto them plainly, Lazarus is dead</hi>
+            </p>
+            <p>FROM hence we may obſerve this Note by the way:</p>
+            <p>Doct. <hi>THAT tho Christ may ſuffer his People to lye in the Dark as to ſome things, and ſome Truths for a while, yet in his time he will reveal it more plainly to them.</hi> The Diſciples of Chriſt were as ignorant of moſt of the Truths of the Goſpel, and My<g ref="char:EOLhyphen"/>ſteries of Salvation, as they were of what our Saviour meant about the ſleep of <hi>Laza<g ref="char:EOLhyphen"/>rus:</hi> But in his good time he as plainly un<g ref="char:EOLhyphen"/>folds the Myſteries of the Kingdom of God to them, as he did the myſtery of <hi>Lazarus</hi> ſleep, <hi>Acts 1. 3. Light is ſown for the righte<g ref="char:EOLhyphen"/>ous, and gladneſs for the upright in heart.</hi> Not only the light of Proſperity, but the light of Knowledg; and as it hath its ſeeding, ſo in Chriſt's time it ſhall have its ſpringing
+<pb n="17" facs="tcp:58181:13"/> ſeaſon. <hi>The path of the juſt ſhineth more and more unto the perfect day,</hi> Col. 2. 3. It's true, that in Chriſt are hid all the treaſures of wiſdom and knowledg; and it's in Chriſt for believers, <hi>John</hi> 1. 16. but he will give it down to them as he ſees his time. Chriſt had many things to ſay to his Diſciples, but they could not bear them at that time. But let this be the comfort of every ſincere Chriſti<g ref="char:EOLhyphen"/>an, That firſt or laſt Chriſt will open the treaſures of light and knowledg to thee, only be often putting up that Prayer for thy ſelf, which <hi>Paul</hi> put up for the <hi>Epheſians, Epheſ.</hi> 1. 16, 17, 18, 19. and doubt not of a good Iſſue.</p>
+            <p>AND ſo we come to the words themſelves, in which you have theſe three things: 1. The Perſon ſpeaking. 2. The Perſon ſpoken of: 3. The Words ſpoken.</p>
+            <p>1. YOU have the Perſon ſpeaking, and that was Jeſus Chriſt. 2. You have the Per<g ref="char:EOLhyphen"/>ſon ſpoken of, and that was <hi>Lazarus.</hi> 3. You you have the Words ſpoken, which are theſe, <hi>Our friend Lazarus ſleepeth.</hi> Which words have theſe two things in them; firſt, A ma<g ref="char:EOLhyphen"/>nifeſtation of the relation that there was be<g ref="char:EOLhyphen"/>twixt Chriſt, the Diſciples, and <hi>Lazarus;</hi> (mark) he doth not ſay <hi>Lazarus</hi> my Friend, but <hi>Lazarus</hi> our <hi>friend ſleepeth.</hi>
+            </p>
+            <pb n="18" facs="tcp:58181:14"/>
+            <p>FROM hence we may obſerve by the way, Doct. <hi>THAT thoſe who are friends to Chriſt, are friends alſo to his People. Lazarus</hi> was Chriſt's Friend, therefore Chriſt tells his Diſciples that he was their Friend; <hi>Lazarus</hi> our <hi>friend ſleepeth.</hi> And then, if only thoſe which are friends to Chriſt are friends to his people, then thoſe which are not friends to the people of Chriſt, will never prove them<g ref="char:EOLhyphen"/>ſelves friends to Jeſus Chriſt. There is a reciprocal reſpect in the relation; To love Chriſt, is to love his people, and to love the people of Chriſt, is to love Chriſt; becauſe Chriſt and his people are one.</p>
+            <p>2. THE ſecond thing contained in the words of the Text, is this; namely, the qua<g ref="char:EOLhyphen"/>lification of the perſon ſpoken of: That is underſtood, tho not expreſt; namely, That he was a good Man; for he was the Friend of Chriſt. <hi>Lazarus our friend is dead.</hi> From hence alſo we may obſerve by the way,</p>
+            <p>Doct. <hi>THAT none but godly, gracious men, are indeed the friends of Chriſt.</hi> Chriſt hath many pretended Friends in the World; but for his real Friends, we may ſay of them in our day, as <hi>Solomon</hi> ſpake of a vertuous Woman in his day, <hi>One of a thouſand of ſuch can we not find.</hi> Many that will ſerve Chriſt ſo long as they may ſerve themſelves in ſer<g ref="char:EOLhyphen"/>ving
+<pb n="19" facs="tcp:58181:14"/> of him; but when an impoveriſhed Chriſt comes to live upon them, they will quickly give him cauſe to ſay, That ſuch friends were never true to them that truſted them. And as for ungodly men, they are not friends, but enemies to Jeſus Chriſt; they are enemies to his Perſon, to his Offices, to his Laws, to his Goſpel, to his Miniſters, to his People. <hi>Col. 1. 21. You that were ſome<g ref="char:EOLhyphen"/>times alienated, and enemies in your mind by wicked works.</hi>
+            </p>
+            <p>IT's only the Godly and Gracious which are the real Friends of Chriſt; where there is no reconciliation, there can be no friend<g ref="char:EOLhyphen"/>ſhip. Now it's only Grace which can recon<g ref="char:EOLhyphen"/>cile the heart to Chriſt; and none but godly men have true Grace: Therefore none but ſuch can be real Friends to Chriſt. <hi>Abraham</hi> was a godly man, therefore called the Friend of God; and <hi>Moſes</hi> was a godly man, and it's ſaid, that God talked with him face to face, as a man talketh with his friend.</p>
+            <p>LASTLY, You have the final end of <hi>La<g ref="char:EOLhyphen"/>zarus</hi> (as to this Life) ſpoken of; 1. Which is delivered figuratively. 2. More plainly.</p>
+            <p>1. HIS end is ſpoken of in a figure, <hi>Our friend Lazarus ſleepeth.</hi>
+            </p>
+            <p>2. IT is delivered more plainly, <hi>Our friend Lazarus is dead.</hi>
+            </p>
+            <p>FROM hence we ſhall obſerve theſe two points of Doctrine:</p>
+            <pb n="20" facs="tcp:58181:15"/>
+            <p>Doct. 1. <hi>THAT good men muſt dye as well as bad men.</hi>
+            </p>
+            <p>Doct. 2. <hi>THAT, to the Friends of Chriſt, Death is but a ſleep.</hi>
+            </p>
+            <p>IT is the firſt Obſervation which we ſhall handle at this time, which we ſhall, 1. Prove to you. 2. Shew you what death is. 3. Give you the grounds of the point. 4. Apply the whole.</p>
+            <p>Doct. <hi>THAT good men muſt dye as well as bad men;</hi> This you have in the Text: You ſee that <hi>Lazarus</hi> was a good Man, a declared Friend of Chriſt; yet neither his goodneſs before Chriſt, nor his relation to Chriſt, could priviledg from Death. We read of <hi>Abraham</hi> the friend of God; we read of <hi>Iſaac, Jacob, Moſes, Samuel, David, Solomon, He<g ref="char:EOLhyphen"/>zekiah, Joſiah,</hi> all eminent men for parts and piety, yet nothing of all this would ſecure them from the ſtroke of death. <hi>The Prophets where are they, do they live for ever?</hi> In a word, ſaith <hi>David,</hi> Pſalm 49. 7, 8. <hi>No man, by any means, can redeeem his bro<g ref="char:EOLhyphen"/>ther, nor give God a ranſome for him: For the redemption of their ſouls is precious, and it ceaſeth for ever.</hi> For ſaith <hi>Paul, It is ap<g ref="char:EOLhyphen"/>pointed unto all men once to dye, and after that to judgment.</hi>
+            </p>
+            <p>2. WE next come to ſhew you what Death is: Death is the diſſolving of the Union
+<pb n="21" facs="tcp:58181:15"/> that's betwixt two Beings; or it is the ſe<g ref="char:EOLhyphen"/>paration of the Soul and Body each from o<g ref="char:EOLhyphen"/>ther: Two near Friends that were knit to<g ref="char:EOLhyphen"/>gether in the Womb; but now divided a<g ref="char:EOLhyphen"/>ſunder under the Tomb.</p>
+            <p>THERE is a threefold Death; A death ſpi<g ref="char:EOLhyphen"/>ritual, a death eternal, and a death tempo<g ref="char:EOLhyphen"/>ral or corporal.</p>
+            <p>FIRST of all, There is a death ſpiritual, or a ſpiritual death; which is the diſſolving of that bleſſed Union that was betwixt God and Man in Paradice; for as the ſoul is united to the body of a Man, ſo was God united to the ſoul and body of a Man, tho not in ſo corporal, but in a myſtical mannner: And as the body dies when the ſoul (which maintains the life of it) is gone, in like manner did our ſouls dye to all ſpiritual life when God was gone. Mark the Apoſtle's words, in <hi>Epheſ. 2. 1. You hath he quickned who were dead in treſpaſſes and ſins.</hi> We ceaſed to live the Life of God, ever ſince that happy union was broken betwixt us and God, <hi>Pſalm</hi> 49. 12.</p>
+            <p>2. <hi>THERE is an Eternal death,</hi> which is that ſtate every graceleſs man and woman (living and dying ſo) is appointed unto after this Life of Nature is at an end. And what that ſtate is, you may read in theſe following Scriptures, <hi>Matt. 8. 11, 12. I ſay
+<pb n="22" facs="tcp:58181:16"/> unto you, that many ſhall come from the eaſt, and from the weſt, and ſhall ſit down with Abraham, Iſaac and Jacob, in the kingdom of God; But the children of the kingdom ſhall be caſt out into utter darkneſs, where ſhall be weeping and gnaſhing of teeth.</hi> Pſal. 9. 17. <hi>The wicked ſhall be turned into hell, and all the nations that forget God.</hi> Pſalm. 11. 6. <hi>
+                  <g ref="char:V">Ʋ</g>pon the wicked ſhall God rain ſnares, and fire, and brimſtone, and an horrible tempeſt, this ſhall be the portion of their cup.</hi> 2 Theſſ. 1. 7, 8, 9. <hi>When he ſhall be revealed from heaven with his mighty Angels in flaming fire, taking vengeance on them that know not God, and obey not the Goſpel of our Lord Jeſus Chriſt, who ſhall be puniſhed with everlaſting deſtruction from the preſence of the Lord, and the glory of his power,</hi> ſo Rev. 14. 9, 10, 11.</p>
+            <p>3. THERE is this natural death which unties the Soul from the Body, which a good <hi>Lazarus</hi> as well as a wicked <hi>Dives</hi> muſt partake of; from which ſtroke, ſaith <hi>David,</hi> no Man can keep alive his own Soul. <hi>So<g ref="char:EOLhyphen"/>lomon</hi>'s Wiſdom, <hi>Abraham</hi>'s Faith, <hi>Sampſon</hi>'s Strength, <hi>David</hi>'s Zeal, <hi>Hezekiah</hi>'s Godli<g ref="char:EOLhyphen"/>neſs, <hi>Joſiah</hi>'s Uprightneſs, <hi>Job</hi>'s Patience, <hi>Abſolom</hi>'s Beauty, <hi>Hammon</hi>'s Honour, <hi>Dives</hi> his Riches could not prevent this ſtroke of death. Saith <hi>Solomon, As dyeth the fool, ſo dyeth the wiſe man,</hi> and all this as the fruit of
+<pb n="23" facs="tcp:58181:16"/> ſin; <hi>For the wages of ſin is death,</hi> Rom. 6. 23.</p>
+            <p>2. WE now come to the Reaſons of the Point, Why good men muſt die as well as bad men.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. BECAUSE of Gods determi<g ref="char:EOLhyphen"/>nation, he hath decreed and appointed it to be ſo; <hi>Heb. 9. 27. It is appointed once for all men to dye.</hi> Now there is no withſtand<g ref="char:EOLhyphen"/>ing of a decree of God; <hi>Numb. 23. 19. God is not a man that he ſhould lye, nor the ſon of a man that he ſhould repent: Hath he ſaid it, and ſhall he not do it? or hath he ſpoken it, and ſhall he not make it good?</hi> You may as well turn the Winds out of their points, the Tide out of its courſe, the Moon out of her place, or ſtop the Sun in its race, as to hin<g ref="char:EOLhyphen"/>der the execution of the leaſt decree of God; therefore none ever yet could ſtop or prevent his own departure hence.</p>
+            <p>THO Chriſt himſelf, as God, could have prevented his own death, <hi>John 10. 18. I have power to lay it down, and I have power to take it again:</hi> But yet as Chriſt was Man he could not avoid it.</p>
+            <p>HENCE ſaith the Apoſtles, <hi>Acts 4. 27, 28. For of a truth againſt thy holy child Jeſus whom thou haſt anointed, both Herod and Pon<g ref="char:EOLhyphen"/>tius Pilate, with the Gentiles, with the people of Iſrael, were gathered together, for to do what<g ref="char:EOLhyphen"/>ſoever thy hand and thy counſel determined
+<pb n="24" facs="tcp:58181:17"/> before to be done.</hi> Now if the determina<g ref="char:EOLhyphen"/>tion of God brings Chriſt to the Grave, much more will it bring other good men to the Grave alſo.</p>
+            <p>
+               <hi>Reaſ.</hi> 2. IT's ſo, Becauſe good Men have ſinned, and thereby deſerved this ſtroke of Death, as well as bad Men, Rom. 3. 23. with Rom. 6. 23. <hi>We have all ſinned, and fallen ſhort of the glory of God; the wages of Sin is Death.</hi> Only there is this difference be<g ref="char:EOLhyphen"/>twixt the bad Man, and the good Man's death; the bad Man dies, as it's ſaid; our Lord Jeſus died, when all the Sins of the Elect were upon him; he dyes a curſed Death, Gal. 3. 13. So do the wicked, they dye a curſed Death, becauſe they dye with all their Sins upon them, 1 Joh. 8. 24. <hi>Ex<g ref="char:EOLhyphen"/>cept you believe in me, you ſhall dye in your ſins.</hi> But the godly Man hath all his Sins done away in Chriſt, and where Sin is par<g ref="char:EOLhyphen"/>doned, there Death is diſarmed; Death may gape, but it cannot bite; it may hiſs, but it cannot ſting a believer, becauſe both its Teeth and Sting are broken and pluckt out by Chriſt, in the behalf of every true Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+            <p>
+               <hi>Reaſ.</hi> 3. WHY good Men muſt dye as well as bad Men, is, Becauſe they might actually poſſeſs that glorious Inheritance, which Chriſt hath purchaſed for them above, <hi>Eph.</hi>
+               <pb n="25" facs="tcp:58181:17"/> 1. 14. <hi>Which is the earneſt of our Inheritance; until the Redemption of the purchaſed Poſſeſ<g ref="char:EOLhyphen"/>ſion, unto the praiſe of his Glory.</hi> So that it appears that Jeſus Chriſt hath not only pur<g ref="char:EOLhyphen"/>chaſed a Redemption for his People (by his precious Blood) from Sin, Satan, the Curſe, and Condemnation of the Law, and Wrath to come; but by the price of the ſame Blood, hath he purchaſed an Inheritance in Glory for them, ſaith <hi>Peter,</hi> 1 Pet. 1. 4. <hi>An inhe<g ref="char:EOLhyphen"/>ritance uncorruptible and undefiled, and that fadeth not away, reſerved in Heaven for you.</hi> But moſt certain it is, while the Godly are in this Life, they are at a great diſtance from this purchaſed Inheritance of Glory, 2 Cor. 5. 6. <hi>Therefore we are always confident, knowing that while we are at home in the Body; we are abſent from the Lord.</hi> So ver. 1. <hi>For we know, that if our earthly houſe of this Taberna<g ref="char:EOLhyphen"/>cle were diſſolved, we have a building of God, an houſe not made with hands, eternal in the Hea<g ref="char:EOLhyphen"/>vens.</hi> So that you ſee here is but an old tot<g ref="char:EOLhyphen"/>tering Tabernacle, which ſtands up betwixt the People of God, and this purchaſed glorious Inheritance reſerved in Heaven for them, and Chriſt will have it down, he will have his Manſion-places filled above, which muſt be with the fall of his Saints Bodies here below. This made <hi>Peter</hi> to look upon his Diſſolution as moſt neceſſary, 2 Pet. 1. 14.
+<pb n="26" facs="tcp:58181:18"/> 
+               <hi>Knowing that ſhortly I must put off this my Tabernacle, even as our Lord Jeſus Chriſt hath ſhewed me.</hi> He knew that his Diſſolution was very neceſſary to his glorious Poſſeſſion, and ſo it is to every believer elſe.</p>
+            <p>Laſtly, WE are now come to improve the whole.</p>
+            <p>1. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> IS this a truth, <hi>That good Men muſt dye, as well as bad Men?</hi> Learn hence, then, to know what an exceeding evil Sin is; it is Sin that hath drawn and drag'd us into the Valley of the Shadows of ſo many Deaths, that we are become dead to God ſpiritually, and do dye out of the World corporally; and that ſome do dye and periſh eternally, it is Sin which hath been the cauſe of all this. Oh Sinner, Sinner, didſt thou ever ſeriouſly lay this to thy heart? If ſo, how canſt thou nouriſh ſuch a Viper in thy Boſom, which hath procured ſo many Deaths for thee?</p>
+            <p>DID <hi>Sampſon</hi> deſire to take revenge upon the <hi>Philiſtines</hi> for their plucking out of his two Eyes? Alas, what a ſmall Injury was that, compared with the miſchief which Sin hath done to thee? And yet thou art ſo far from taking Vengeance on thy Sins, that all the World cannot perſwade thee to break thy curſed League with it; but ſtill thou holdeſt faſt thy Iniquity, and re<g ref="char:EOLhyphen"/>fuſeſt to return, as if nothing could make
+<pb n="27" facs="tcp:58181:18"/> thee more happy than Sin; an evil which hath made thee ſo miſerable here, and will make thee a thouſandfold more miſerable hereafter.</p>
+            <p>I SHALL conclude this Uſe, with preſent<g ref="char:EOLhyphen"/>ing two Scriptures to thy Conſideration, with this Requeſt to thee, poor, hardned, blind<g ref="char:EOLhyphen"/>ed Sinner, that if thou haſt any value for thy invaluable Soul, ſlight not the Conſi<g ref="char:EOLhyphen"/>deration of them, Ezek. 18. 31. <hi>Cast away from you all your Tranſgreſſions, whereby you have tranſgreſſed, and make you a new Heart and a new Spirit, for why will ye dye, O houſe of</hi> Iſrael? Ezek. 11. 21. <hi>But as for them whoſe heart walketh after the heart of their deteſtable things, and their Abomina<g ref="char:EOLhyphen"/>tions, I will recompence their way upon their own heads, ſaith the Lord God.</hi>
+            </p>
+            <p>2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe. M<g ref="char:V">Ʋ</g>ST the good Man dye, as well as the bad Man?</hi> Let the thoughts of it teach us all to wean our ſelves from this World, and from each other in it, betimes. Let us all learn the Leſſon given us by <hi>Paul,</hi> 1 Cor. 7. 29, 30, 31. <hi>But this I ſay, Bre<g ref="char:EOLhyphen"/>thren, the time is ſhort; it remaineth, that both they that have Wives, be as tho they have none; and they that weep, as tho they wept not; and they that rejoice, as tho they rejoyced not; and they that buy, as tho they poſſeſſed not; and they that uſe this World, as
+<pb n="28" facs="tcp:58181:19"/> not abuſing it, for the faſhion of this World paſſeth away.</hi> The meaning is, that we ſhould hold every thing with a looſe hand, that it may the eaſier drop from us, when either we muſt drop from them, or them from us; when we fooliſhly eſpouſe our Friends and Relations too near our Affecti<g ref="char:EOLhyphen"/>ons, it comes to paſs too often, that when God rips them from us, he thereby (ma<g ref="char:EOLhyphen"/>ny a time) rips away our Hearts with them, and leaves us ſo empty, as we can neither enjoy our ſelves, nor any of our Friends enjoy us for ſome years after; there<g ref="char:EOLhyphen"/>fore, in as much as a ripping time will come, let us labour what we can, to unglue our ſelves from every heart-endearment below God. Oh, remember your Husbands will dye, your Wives muſt dye, Parents and Children muſt dye, and you muſt dye; therefore labour to dye to them all firſt, and let it be your great care to live to God; and then when you ſhall ceaſe to live with Men, you ſhall live with God, which is beſt of all.</p>
+            <p>3. Uſe. <hi>M<g ref="char:V">Ʋ</g>ST good Men dye, as well as bad Men?</hi> Let us learn then to prepare for Death; it will be the ſaddeſt hour that e<g ref="char:EOLhyphen"/>ver came upon you, ſhould Death ſeize on you before you are prepared for it; there<g ref="char:EOLhyphen"/>fore, in order to your Preparation for Death, take theſe Rules.</p>
+            <pb n="29" facs="tcp:58181:19"/>
+            <p>1. <hi>Rule.</hi> GET your ſelves well hous'd, and harboured in Jeſus Chriſt the true Ark indeed, before this Flood of Death comes upon you. Oh, how ſweetly did <hi>Noah</hi> ſing in his Ark, when the Flood of Deſtruction was upon the face of the whole Earth! Oh, ſo will it only be with thoſe who only are in Chriſt, when the Flood of Death draws nigh to their Souls. Oh, how ſweetly will they ſing then, 1 Cor. 15. 54, 55, 56, 57. <hi>O Death, where is thy ſting? O Grave, where is thy Victory? The ſting of death is ſin, and the ſtrength of ſin is the Law. But thanks be to God, which giveth us the victory through our Lord Jeſus Christ.</hi> It will be the ſaddeſt Providence that ever thou metteſt with in all thy life, ſhould thy body be laid into the grave, before thy Soul by Faith is well incorporated into Chriſt. He that hath no Union with Chriſt, is dead while he lives; and to ſee a Man dy<g ref="char:EOLhyphen"/>ing before he began to live, this is one of the ſaddeſt objects under Heaven.</p>
+            <p>
+               <hi>Rule</hi> 2. IF you would prepare for Death, ſee to it, that the work of regeneration be wrought upon your Souls while you are alive; which work lieth in a work of Grace ſupernaturally infuſed into your hearts, <hi>Tit. 3. 5. Not by works of righteouſneſs which we have done, but according to his mercy he ſaved us, by the waſhing of regeneration, and renewing of
+<pb n="30" facs="tcp:58181:20"/> the Holy Ghoſt.</hi> The neceſſarineſs of this Work you may perceive by our Saviours words to <hi>Nicodemus,</hi> 1 John 3. 3. <hi>And Jeſus anſwered and ſaid unto him, Verily, verily, I ſay unto thee, except a man be born again, he cannot ſee the Kingdom of God.</hi> There be ſome that will tell you a fine Story of Regeneration, that it lies in an aſſent of Faith given to the truths of the Goſpel, with an obedient walking to the Rules of the ſame. What is this Notion, but a mere Cheat put upon your Souls? for this differs as far from Regeneration, as Lead differs from Silver, or Braſs differs from Gold. For this ſtrange Notion of Regeneration, ſuppoſeth three things:</p>
+            <p n="1">1. THAT man by Nature can diſcern the things of God, or elſe to what purpoſe do theſe men talk of revealing Goſpel-truths to the minds of men? but this is expreſly againſt the word, 1 Cor. 2. 14. <hi>But the natural man receiveth not the things of God, for they are fooliſhneſs unto him; neither can be know them, becauſe they are ſpiritually diſcerned.</hi>
+            </p>
+            <p n="2">2. IT ſuppoſeth, That every man hath true Faith in ſome degree or other, or elſe to what purpoſe do theſe men talk of mens giving an aſſent of Faith to the Divine Truths of the Goſpel? but this is as groſs as the other, if <hi>Paul</hi> may be believed, 2 Theſ. 3. 2. <hi>That we may be delivered from unreaſonable men, for all men have not faith.</hi>
+            </p>
+            <p n="3">3. IT ſuppoſeth that all men by nature have Power to obey the Goſpel, if they pleaſe; or elſe why do the men of this Notion talk as they do, of mens living in obedience to the Rules of the Goſpel? but this is as foreign and wide from the Scripture, as any of the former, if <hi>Paul</hi> may be believed by an <hi>Arminian,</hi> Rom. 8. 7. <hi>Becauſe the carnal mind is enmity againſt God; for it is not ſubject to the Law of God,
+<pb n="31" facs="tcp:58181:20"/> neither indeed can be.</hi> So that unleſs a man have new Eyes put into his Head, and a new Faith put into his heart, and a new Will put into his Soul, it is wholly Impoſſible that men ſhould either ſee, be<g ref="char:EOLhyphen"/>lieve or obey the Goſpel to the Salvation of their Souls; but Regeneration which is right, is another thing than theſe men dream of; it is ſupernatural work carried on by the Holy Ghoſt in the Heart, where and when he pleaſeth; it is called a new crea<g ref="char:EOLhyphen"/>tion, <hi>Eph.</hi> 2. 10. Is this ſupernatural, or is it not? it's called a being born again, 1 <hi>Pet.</hi> 1. 23. Now, who is there which can contribute to his own Birth? It's called a Reſurrection, <hi>Rom. 6. 5. Rev.</hi> 20. 6. And who is it that can contribute to his own Reſurrection? all as able is a poor Sinner to convert himſelf from ſin to God, or believe and obey the Goſpel, if Chriſt him<g ref="char:EOLhyphen"/>ſelf may be believed, <hi>Joh. 15. 5. Without me ye can do nothing;</hi> therefore ſee that this work be done upon your Souls, before you dye, or elſe your corporal death will lanch you into an eternal death for ever.</p>
+            <p>3. <hi>Rule.</hi> LAY in a good ſtock of Prayer againſt a dying hour comes; it is <hi>Paul</hi>'s Exhortation, <hi>Lay up a good foundation for the time to come.</hi> Oh, let it be your Prayer night and day to God, that he would prepare your Souls for Death. Undoubtedly thoſe who pray moſtly for this mercy in time of life, have moſtly the joyful comfort of it in an hour of death; they that live prayingly, will dye prayingly.</p>
+            <p>4. <hi>Rule.</hi> IF you would prepare for Death, make your ſelves as familiar with it, as you can in a time of Life; then will it be the leſs dreadful to you when it comes; it is in the caſe of death, as it is with a Lyon, death is called the King of terrors to men, as the Lyon is to the reſt of the Beaſts of the Foreſt, and little leſs a terror to men alſo. But if you take a
+<pb n="32" facs="tcp:58181:21"/> Lyon when it is but a whelp, you may train it up to ſo tame a rate, that you may lead it up and down by a Chain in your Hand, when others would trem<g ref="char:EOLhyphen"/>ble to look on it; ſo if you would but make Death ſo familiar with your thoughts, you might find it to ſmile upon you, when it looks grim upon others.</p>
+            <p>Laſt Uſe. <hi>MUST good men dye, as well as bad men?</hi> Yet here comes meat out of this eater, and honey out of this ſtrong one to a believer. Oh, what ſweet and pleaſant thoughts ſhould every believer have of Death when they dye; and never till they dye ſhall they be fully brought home to God. Death to the Saints, is the door by which they enter into the enjoyment of God. The dying Chriſtian is almoſt at home, yet a few Pangs and Agonies more, and then he is come to God, in whoſe preſence is ful<g ref="char:EOLhyphen"/>neſs of Joy. <hi>I deſire,</hi> ſaith <hi>Paul, to depart, and to be with Chriſt, which is far better,</hi> Phil. 1. 23. It ſhould not ſcare us to be brought to Death, the King of Terrors, ſo long as it is the office of Death to bring us to God. That dreaming Opinion of the Souls ſleeping after Death, is as ungrounded, as it is uncomfortable; the ſame day we looſe from this ſhore, we ſhall be landed upon the bleſſed ſhore, where we ſhall ſee and enjoy God for ever. Oh, if the Friends of deceaſed Believers, did but underſtand where ond with whom their Souls are, while they are mourning over their Bodies here, certainly a few believing thoughts of this, would quickly dry up their Tears.</p>
+            <p>I SHALL conclude with that word, in <hi>Pſal. 37. 37. Mark perfect man, and behold the upright; for the end of that man is peace.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
